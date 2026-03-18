@@ -1,10 +1,10 @@
-🔹 Title
+# Title
 Quantum Many-Body Spin Systems using VQE
-🔹 Problem
-Study ground state properties of spin chains
-🔹 Model
+# Problem
+Study ground state and excited properties of spin chains
+# Model
 Transverse Field Ising Model
-🔹 Methods
+# Methods
 VQE
 Classical optimization
 Entanglement entropy
